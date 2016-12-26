@@ -467,3 +467,7 @@ BookMeetingRoom on {date} at {time}
 BookMeetingRoom on {date} from {time}
 BookMeetingRoom {time}
 BookMeetingRoom {date}
+BookMeetingRoom {room}
+BookMeetingRoom the {room}
+BookMeetingRoom the {room} room
+BookMeetingRoom the {room} meeting room
