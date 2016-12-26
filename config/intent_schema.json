@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "BookMeetingRoom",
+      "slots": [
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "time",
+          "type": "AMAZON.TIME"
+        },
+        {
+          "name": "room",
+          "type": "ROOM"
+        },
+      ]
+    }
+  ]
+}

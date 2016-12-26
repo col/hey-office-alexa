@@ -1,0 +1,21 @@
+BookMeetingRoom	book me a[ meeting]? room [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
+BookMeetingRoom	can you please book me a meeting room [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
+BookMeetingRoom	i need a meeting room [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
+
+BookMeetingRoom	book me[ the]? {room} [room|meeting room]? [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
+BookMeetingRoom	can you please book me[ the]? {room} [room|meeting room]? [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
+BookMeetingRoom	I need the {room} [room|meeting room]? [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
+
+BookMeetingRoom	book me {room} [for a meeting]?
+BookMeetingRoom	at {time}
+BookMeetingRoom	from {time}
+BookMeetingRoom	from {time} {date}
+BookMeetingRoom	from {time} on {date}
+BookMeetingRoom	for {time}
+BookMeetingRoom	for {time} {date}
+BookMeetingRoom	for {time} on {date}
+BookMeetingRoom	on {date}
+BookMeetingRoom	on {date} at {time}
+BookMeetingRoom	on {date} from {time}
+BookMeetingRoom	{time}
+BookMeetingRoom	{date}

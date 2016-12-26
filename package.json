@@ -1,0 +1,16 @@
+{
+  "name": "hey_office_alexa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Col Harris",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "aws-sdk": "^2.7.19",
+    "moment": "^2.17.1"
+  }
+}
