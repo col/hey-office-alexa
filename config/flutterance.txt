@@ -2,11 +2,11 @@ BookMeetingRoom	book me a[ meeting]? room [on|at|for]? [{date}|{time}|{date} {ti
 BookMeetingRoom	can you please book me a meeting room [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
 BookMeetingRoom	i need a meeting room [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
 
-BookMeetingRoom	book me[ the]? {room} [room|meeting room]? [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
+BookMeetingRoom	book [me]? [the]? {room} [room|meeting room]? [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
 BookMeetingRoom	can you please book me[ the]? {room} [room|meeting room]? [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
 BookMeetingRoom	I need the {room} [room|meeting room]? [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
+BookMeetingRoom	to book [me|us]? [the]? {room} [room|meeting room]? [on|at|for]? [{date}|{time}|{date} {time}|{time} {date}|{time} on {date}]?
 
-BookMeetingRoom	book me {room} [for a meeting]?
 BookMeetingRoom	at {time}
 BookMeetingRoom	from {time}
 BookMeetingRoom	from {time} {date}

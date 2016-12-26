@@ -26,6 +26,10 @@ var bookingModeHandlers = {
       console.log('Time = ' + time);
       console.log('Room = ' + room);
 
+      if (time == 'AM' || time == 'PM') {
+        time = null;
+      }
+      
       if (date && time && room) {
         createMeeting(date, time, room, (error, data) => {
           if (error) {
